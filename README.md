@@ -1,1 +1,1 @@
-# MykolaBlavitskyi-programowanie-zaawansowane-lista-dwukierunkowa
+# Dokumentacja dostępna pod: https://github.com/MykolaBlavitskyi/MykolaBlavitskyi-programowanie-zaawansowane-lista-dwukierunkowa
